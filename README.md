@@ -1,4 +1,4 @@
-# Alcohol-Free Timer – *strong*
+# Healthy Habits Website
 
 A minimalist, dark-themed web timer tracking how long it has been since my last alcoholic drink.
 
